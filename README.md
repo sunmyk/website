@@ -1,7 +1,6 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title></title>
 	</head>
 	<body>
 		<a href="https://sunmyk.github.io/source/">访问示例网站1</a>
