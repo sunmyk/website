@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 	<body>
-		<a href="http://www.example.com" target="_blank">访问示例网站</a>
-		<a href="http://www.example.com" target="_blank">访问示例网站</a>
+		<a href="https://sunmyk.github.io/source/">访问示例网站1</a>
+		<a href="https://sunmyk.github.io/source/">访问示例网站2</a>
 	</body>
 </html>
